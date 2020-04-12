@@ -18,8 +18,12 @@ According to the project website, the following materials are required:
 
 
 Build Instructions
+
 he final version of my project contains an RGB led with three 2.2k Resistor, piezo speaker , push button to control the RGB led and piezo speaker, Servo motor to move the Ultrasonic sensor attached on top of it to move from minimum angle to maximum angle defined by the user. The images are also included in the final write up to refer to. 
 
+Code 
+
+code has been provided in a zip file along with processing code. 
 
 Team
 This was a solo project, hope you like it.
