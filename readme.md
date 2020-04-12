@@ -22,4 +22,4 @@ he final version of my project contains an RGB led with three 2.2k Resistor, pie
 
 
 Team
-This was a solo project, hpe you like it.
+This was a solo project, hope you like it.
